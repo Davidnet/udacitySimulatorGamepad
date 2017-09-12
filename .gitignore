@@ -1,0 +1,4 @@
+*.zip
+sim-linux/
+sim-mac-compiled.app/
+sim-windows/
